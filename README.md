@@ -1,5 +1,5 @@
 # vistrian-data
-If you've ever used Vistrian, you know that it really sucks.  
+
 This module is designed to patch holey vistrian data (data with gaps in random columns at random times), exported as a .csv from the 
 web interface.
 
