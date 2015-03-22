@@ -1,7 +1,7 @@
 '''
-Vistrian sucks.  When you export data, often times there will be many gaps in the data, and the gaps are
+When you export data in Vistrian, often times there will be many gaps in the data, and the gaps are
 not consistent between the columns.  This python code prompts the user for a data file to fix, then interpolates 
-the data so that there are no more gaps in any columns.  It then saves the file with an appended "
+the data so that there are no more gaps in any columns.  It then saves the file with an appended ' - fixed' at the end."
 '''
 
 
